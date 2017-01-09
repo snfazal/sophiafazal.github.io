@@ -1,0 +1,30 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+body {
+  background-color: white;
+  font: normal 100% Georgia, serif;
+  color: navy;
+}
+#nav {
+  color: lightblue;
+}
+.main {
+  background-color: lightblue;
+  width: 200px;
+  height: 200px;
+}
+
+.links {
+  background-color: lightblue;
+  width: 200px;
+  height: 200px;
+}
+
+/*footer {
+  list-style-image: url('img/twitter-logo.jpg');
+  width: 50px;
+  height: 50px;
+}*/
